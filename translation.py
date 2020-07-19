@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hello,
-*This is a YouTube Downloader By KL10Movies*!
+<b>This is a YouTube Downloader By KL10Movies</b>!
 
 <b>Please send me any direct download URL YouTube Link, i can upload to telegram as File/Video</b>
 
@@ -35,7 +35,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """ *Hai am YouTube Downloader bot*..
+    HELP_USER = """ <b> Hai am YouTube Downloader bot </b>..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -44,8 +44,6 @@ Expires on: 31/12/2020"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
 
 --------
 Send /me to know current plan details
